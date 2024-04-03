@@ -1,0 +1,7 @@
+[AVL Tree.pdf](https://github.com/AmitRoy3370/Tree/files/14852604/AVL.Tree.pdf)
+[Trie.pdf](https://github.com/AmitRoy3370/Tree/files/14852596/Trie.pdf)
+[Ternery Search Tree.pdf](https://github.com/AmitRoy3370/Tree/files/14852576/Ternery.Search.Tree.pdf)
+[SPLAY Tree.pdf](https://github.com/AmitRoy3370/Tree/files/14852571/SPLAY.Tree.pdf)
+[Introduction of tree.pdf](https://github.com/AmitRoy3370/Tree/files/14852569/Introduction.of.tree.pdf)
+[Heap.pdf](https://github.com/AmitRoy3370/Tree/files/14852545/Heap.pdf)
+[Binary Search Tree data structure..pdf](https://github.com/AmitRoy3370/Tree/files/14852541/Binary.Search.Tree.data.structure.pdf)
