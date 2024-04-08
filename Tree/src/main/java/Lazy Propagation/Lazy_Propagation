@@ -137,6 +137,13 @@ public class Main {
                 
                 if(start >= l && r >= end) {
                     
+                    if(lazy[i] != 0) {
+                        
+                        segment[i] += lazy[i];
+                        lazy[i] = 0;
+                        
+                    }
+                    
                     segment[i] += (end - start + 1) * inc;
                     
                 }
